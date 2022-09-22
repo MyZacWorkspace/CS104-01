@@ -1,2 +1,2 @@
 # CS104-01
-Gil Eckert's class at MU
+My CS104 Python Programs
